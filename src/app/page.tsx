@@ -7,9 +7,9 @@ import { Suspense } from "react";
 
 const Page = () => {
   return (
-    <Suspense>
+    // <Suspense>
       <Lobby />
-    </Suspense>
+    /* </Suspense> */
   );
 };
 
